@@ -1,0 +1,50 @@
+body
+{background-image:url("https://images-na.ssl-images-amazon.com/images/I/51T-78y8jwL._SX466_.jpg  ");}
+
+
+table{
+
+  box-shadow: 20px 20px black;
+  
+  
+}
+th, td{
+  border: 1px solid black;
+  padding: 10px;
+  vertical-align: top;
+}
+h1{
+text-align:center;
+}
+.normal
+{
+	background-color:blue;
+
+}
+.selectioner
+{background-color:white;
+}
+.urgent
+{background-color:red;}
+
+
+.acheter
+{background-color:black;
+color:white;}
+
+h1
+{text-decoration:underline;
+text-shadow:2px 2px 1px white;
+}
+footer
+{border: 3px outset pink;
+text-decoration:underline overline;}
+.pris
+{color:blue;
+;}
+select
+{width: 200px;
+}
+
+
+
